@@ -14,7 +14,5 @@ Este proyecto corresponde a mi tesis de grado en **Pontificia Universidad Javeri
 ```plaintext
 ├── data/               # Dataset y scripts de preprocesamiento
 ├── models/             # Modelos entrenados y scripts de entrenamiento
-├── notebooks/          # Jupyter notebooks utilizados durante la experimentación
-├── utils/              # Funciones auxiliares (e.g., métricas, visualizaciones)
-├── README.md           # Este archivo
-└── requirements.txt    # Dependencias del proyecto
+├── notebooks/          # Colab notebooks utilizados durante la experimentación
+└── README.md           # Este archivo
